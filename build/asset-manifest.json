@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lvl/static/css/main.f1459053.css",
+    "main.js": "/lvl/static/js/main.9a59b3f5.js",
+    "index.html": "/lvl/index.html",
+    "main.f1459053.css.map": "/lvl/static/css/main.f1459053.css.map",
+    "main.9a59b3f5.js.map": "/lvl/static/js/main.9a59b3f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1459053.css",
+    "static/js/main.9a59b3f5.js"
+  ]
+}
